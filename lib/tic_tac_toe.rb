@@ -121,7 +121,7 @@ class TicTacToe
       end
     end
 
-      turn
-    end
+    turn
+  end
 
 end
