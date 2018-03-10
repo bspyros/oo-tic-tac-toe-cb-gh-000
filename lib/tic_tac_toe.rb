@@ -119,9 +119,8 @@ class TicTacToe
         end
         break
       end
+      turn
     end
-
-    turn
   end
 
 end
